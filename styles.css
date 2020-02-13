@@ -1,0 +1,26 @@
+h1{
+    color: silver;
+    font-family: 'Shadows Into Light', cursive;
+}
+p{
+    font-family: 'Tangerine', cursive;
+    font-size: 29px;
+}
+img{
+width: 200px;
+}
+h2{
+    color: silver;
+    font-family: 'Shadows Into Light', cursive;
+}
+h4{
+    color:silver;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 23px;
+}
+a{
+    color: black;
+}
+body{
+    background-color: lavender;
+}
